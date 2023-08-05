@@ -1,3 +1,9 @@
+"""
+Rock, Paper, Scissors Game
+Author: Priyank Yogesh Panchal, Darshit Parimal Patel & Dev Dineshkumar Patel
+Date: 02/Aug/2023
+"""
+
 import random
 
 options = ["rock", "paper", "scissors"]
