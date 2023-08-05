@@ -2,7 +2,7 @@
 
 **Group Member 1: Priyank Yogesh Panchal (149000218)**  
 **Group Member 2: Darshit Parimal Patel (148634215)**  
-**Group Member 3: Dev Patel**  
+**Group Member 3: Dev Dineshkumar Patel (152075206)**  
 
 ============================================================  
 ### [Role Assigned](#header)   
@@ -14,7 +14,7 @@
 **Group Member 2: Darshit Parimal Patel (148634215)**  
 -- Will act as a QA Tester of the game, will figure out issues, suggest how to make sure it works fine and helps in developing python code. He will design the workflow and guides in the process of step-by-step execution.  
 
-**Group Member 3: Dev Patel**  
+**Group Member 3: Dev Dineshkumar Patel (152075206)**  
 -- Will perform the QA Testing#2 and design the workflow, handles the github submission. Also, Helps in developing python code.  
  
 ============================================================  
