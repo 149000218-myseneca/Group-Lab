@@ -13,7 +13,7 @@ if playerChoice in options:
     if playerChoice == computerOption:
         print("It's a tie!")
     elif playerChoice == "rock":
-        if computerOption == "scissors":
+        
             print("You win! Rock crushes scissors.")
         else:
             print("Computer wins! Paper covers rock.")
